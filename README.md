@@ -40,7 +40,7 @@
    ```
 3. Run it:
    ```bash
-   java -jar build/libs/CookieGhost.jar
+   java -jar build/libs/CookieGhost-1.0.jar
    ```
 
 ---
